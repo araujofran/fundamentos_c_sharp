@@ -1,2 +1,6 @@
 senha.txt 
 senha.txt 
+bin/ 
+obj/ 
+*.user 
+*.suo 
